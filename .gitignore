@@ -1,0 +1,12 @@
+.vscode/
+dataset/*
+**/__pycache__/
+*.pth
+*.pyc
+*.log
+*.sh
+*.out
+log/*
+log_tensorboard/*
+saved/
+*.lprof

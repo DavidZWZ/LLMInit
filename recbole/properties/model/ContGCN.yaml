@@ -1,0 +1,6 @@
+embedding_size: 128 # 1024              # (int The embedding size of users and items.
+llm_embedding_size: 1024 #1536 #1024 #384 768 3072
+emb_selection: False
+n_layers: 2 #2                     # (int) The number of layers in LightGCN.
+reg_weight: 1e-05               # (float) The L2 regularization weight.
+# epochs: 0  
