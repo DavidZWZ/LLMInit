@@ -3,6 +3,7 @@
 This is the Pytorch Implementation for LLMInit.
 
 Examples: 
+
 (1) run the **LLMInit-Rand** with the **LightGCN** on Amazon-Beauty
 '''
 python run_recbole.py --opt rand -d amazon-beauty -m ContGCN
