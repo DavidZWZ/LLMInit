@@ -1,4 +1,4 @@
-# LLMInit: A Free Lunch from Large Language Models for Selective Initialization of Recommendation
+# LLMInit: Selective Initialization from Large Language Models for Recommendation
 
 This is the Pytorch Implementation for LLMInit.
 
